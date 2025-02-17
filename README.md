@@ -3,5 +3,5 @@
 - 👨🏻‍💻 My most used programming languages are Java for creating applications, Python for creating machine learning models.
 - ✨ I have a passion for innovative business ideas and blockchain smart contract development.  
 - 👀 I’m interested in coding, problem solving, and creating bussiness applications 
-- 🌱 I’m currently learning machine learning and blockchain contract development
+- 🌱 I’m currently learning machine learning and blockchain contract development and react native for developing mobile applications
 - 📫 How to reach me periklistripoli@gmail.com
