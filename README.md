@@ -7,6 +7,7 @@
 
 - 🔗 [Fitly](https://github.com/FiveSlashNine/Fitly) – A web app using the latest technologies for searching and booking fitness programs.
 - 📊 Company Bankruptcy Prediction System – Machine learning model that predicts financial distress based on financial indicators.
+-  [CrowdFunding](https://github.com/Periklas712/crowdfunding) - A web crowdfunding app that is based on a smart contract using React and Solidity 
 
 ## 🧠 Languages & Technologies
 
