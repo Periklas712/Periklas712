@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Periklis!
 
-🎓 I am a Computer Science student in University Of Macedonia  with a passion for Software Development, and bussiness solutions.  
-💡 I enjoy building projects on the backend with Java and the Spring framework, Python for scripts and machine learning, and modern Web technologies like React and Next.js on the frontend.
+🎓 I am a Software Developer and a graduate from Applied Informatics: Computer Science in University Of Macedonia  with a passion for Software Development, and bussiness solutions.  
+💡 I enjoy building projects on the backend with Java and the Spring framework, Python for scripts and AI, and modern Web technologies like React and Next.js on the frontend.
 
 ## 🚀 Recent Projects
 
@@ -24,5 +24,7 @@
 - 📧 periklistripoli@gmail.com
 
 ---
+
+[Here](https://app.notion.com/p/Courses-Certifications-364e8203cccb80b29cf9f9bde439536c) is a list of all courses, certifications, video tutorials i have viewed and all educations regarding software development and technology 
 
 > I believe in teamwork, clean code, exploring new technologies every day and providing bussiness solutions with modern techniques!
